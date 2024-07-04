@@ -1,0 +1,22 @@
+{
+  "name": "@mathyasp/random-number",
+  "version": "1.0.0",
+  "description": "Random number generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathyasp/Random-number.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "mathyasp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathyasp/Random-number/issues"
+  },
+  "homepage": "https://github.com/mathyasp/Random-number#readme"
+}
